@@ -1,0 +1,18 @@
+act_visualizer.py
+behavioral_fit_mcmc.py
+behavioral_fit.py
+Cambalache.ipynb
+data_exploration.ipynb
+data_interface.py
+dense_sampling.py
+logistic_behavioral_fit.py
+mixture_tester.py
+model.py
+model_representation.py
+non_responsive_decoder.py
+plot_all_neurons.py
+plot_utils.py
+population.py
+Save LI drives.ipynb
+simple_model.py
+utils.py
